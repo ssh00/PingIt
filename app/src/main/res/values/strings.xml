@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ping It</string>
+    <color name="orange">#ff2953</color>
+    <color name="blue">#1790f4</color>
+    <color name="yellow">#fdeaaf</color>
+    <color name="red">#00ce9f</color>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
